@@ -23,15 +23,4 @@ A simple and useful Chrome Extension to save, manage, and open browser tab links
 
 ---
 
-## 📸 Preview
 
-![screenshot](./screenshot.png)  
-*(Add a real screenshot of your extension interface here)*
-
----
-
-## 📦 Installation
-
-1. Download or clone this repo:
-   ```bash
-   git clone https://github.com/your-username/lead-tracker-extension.git
