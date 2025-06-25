@@ -1,0 +1,10 @@
+{
+  "manifest_version": 3,
+  "name": "Lead Tracker",
+  "version": "1.0",
+  "description": "Save and manage your browser tabs!",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "permissions": ["tabs", "storage"]
+}
